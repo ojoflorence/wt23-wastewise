@@ -60,6 +60,6 @@ __Disclaimer:__ At the time this is written, the model can classify 20 classes w
 
 ### User Experience Design
  [Oluwayinka ojo](https://github.com/ojoflorence) 
-Oluwadamilare Vincent Akinyoyenu
+
 ### Web Development
 [Andreas](https://github.com/crftwrks)
